@@ -12,4 +12,4 @@
 
 ### Deploy
 
-  - Deploy [aqui]()
+  - Deploy [aqui](https://tech-edu-access.vercel.app/)
